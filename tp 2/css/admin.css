@@ -1,0 +1,15 @@
+/* couleur du background */
+body{
+    background-color: #C4C7C5;
+}
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
